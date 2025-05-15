@@ -1,2 +1,0 @@
-# EdurekaCodeCommit
-# CodeCommitMay2025
